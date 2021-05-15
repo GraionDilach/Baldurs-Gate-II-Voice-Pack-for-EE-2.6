@@ -3,12 +3,12 @@
 ## Overview
 This mod adds the base voicesets of Baldur's Gate to the Infinity Engine (Baldur's Gate/Baldur's Gate II/Icewind Dale) Enhanced Edition games version 2.6 or above.
 
-##Limitations/notes
+## Limitations/notes - disclaimer:
 Baldur's Gate II has a lot of voiceset inconsistencies.
-Introduced by BioWare (based upon classic GOG version):
+### Introduced by BioWare (based upon classic GOG version):
  - Battle Cry #2 (filename suffix 8), Battle Cry #3 (filename suffix 9), and Select #6 (filename suffix 0) are missing from the tlk file and from CHARSND.2DA. CHARSND.2DA lists Battle Cry #1 for the other two. These were included in this package but Female 3's responses might be inaccurate in text.
  - There is an Action #8 (filename suffix _) which is completely unreferenced in the game assets. So much that the EEs don't even support voicesets having a 8th simple action response. This was included as a rare action response.
-Introduced by Beamdog:
+### Introduced by Beamdog:
  - EE 2.6 added it's new voicesets based upon their additional new voicesets in BG1 (Female Relaxed/Scholarly and Male Commanding/Jovial). Back during the creation of these new BG1 voicesets, Beamdog used filename suffix x and y as part of the annoyed selection responses, but these were used as common selects in BG2 already. BG2 does not even have annoyed selection responses by default (the annoyed responses are coming as action responses on NPCs but not part of PC voicesets). With 2.6 trying to merge these changes of BG1 into BG2, the default BG2 voicesets regressed further.
 
 ## Version history
