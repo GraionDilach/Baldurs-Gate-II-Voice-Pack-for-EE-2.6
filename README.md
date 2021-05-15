@@ -14,7 +14,7 @@ Baldur's Gate II has a lot of voiceset inconsistencies.
 ## Version history
 ### 1.0.0
 Initial release.
-Adds the 9 new sets from BG2.
+Adds the 9 sets from BG2.
 
 ## Acknowledgments
 Thanks for CamDawg for [his documentation on EE 2.6+ voicesets](https://github.com/Gibberlings3/EE_soundset_tool).
