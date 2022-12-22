@@ -1,6 +1,6 @@
 BACKUP ~zg_bg2_voices/backup~ // location to store files for uninstall purposes
 SUPPORT "https://forums.beamdog.com/discussion/82008"
-VERSION ~1.0.2~
+VERSION ~1.1.0~
 
 
 LANGUAGE ~English~ ~english~ ~%MOD_FOLDER%/english/setup.tra~
@@ -47,6 +47,7 @@ LAF cd_add_soundset
     cd_action6            = RESOLVE_STR_REF(@1106) //  u
     cd_action7            = RESOLVE_STR_REF(@1107) //  v
     cd_action_rare1       = RESOLVE_STR_REF(@1108) //  x
+    cd_action_rare2       = RESOLVE_STR_REF(@1108) //  x
     cd_battlecry1         = RESOLVE_STR_REF(@1116) //  a
     cd_battlecry2         = RESOLVE_STR_REF(@1117) //  8
     cd_battlecry3         = RESOLVE_STR_REF(@1118) //  9
@@ -90,6 +91,7 @@ LAF cd_add_soundset
     cd_action6            = RESOLVE_STR_REF(@1206) //  u
     cd_action7            = RESOLVE_STR_REF(@1207) //  v
     cd_action_rare1       = RESOLVE_STR_REF(@1208) //  x
+    cd_action_rare2       = RESOLVE_STR_REF(@1208) //  x
     cd_battlecry1         = RESOLVE_STR_REF(@1216) //  a
     cd_battlecry2         = RESOLVE_STR_REF(@1217) //  8
     cd_battlecry3         = RESOLVE_STR_REF(@1218) //  9
@@ -133,6 +135,7 @@ LAF cd_add_soundset
     cd_action6            = RESOLVE_STR_REF(@1306) //  u
     cd_action7            = RESOLVE_STR_REF(@1307) //  v
     cd_action_rare1       = RESOLVE_STR_REF(@1308) //  x
+    cd_action_rare2       = RESOLVE_STR_REF(@1308) //  x
     cd_battlecry1         = RESOLVE_STR_REF(@1316) //  a
     cd_battlecry2         = RESOLVE_STR_REF(@1317) //  8
     cd_battlecry3         = RESOLVE_STR_REF(@1318) //  9
@@ -176,6 +179,7 @@ LAF cd_add_soundset
     cd_action6            = RESOLVE_STR_REF(@1406) //  u
     cd_action7            = RESOLVE_STR_REF(@1407) //  v
     cd_action_rare1       = RESOLVE_STR_REF(@1408) //  x
+    cd_action_rare2       = RESOLVE_STR_REF(@1408) //  x
     cd_battlecry1         = RESOLVE_STR_REF(@1416) //  a
     cd_battlecry2         = RESOLVE_STR_REF(@1417) //  8
     cd_battlecry3         = RESOLVE_STR_REF(@1418) //  9
@@ -220,6 +224,7 @@ LAF cd_add_soundset
     cd_action6            = RESOLVE_STR_REF(@2106) //  u
     cd_action7            = RESOLVE_STR_REF(@2107) //  v
     cd_action_rare1       = RESOLVE_STR_REF(@2108) //  x
+    cd_action_rare2       = RESOLVE_STR_REF(@2108) //  x
     cd_battlecry1         = RESOLVE_STR_REF(@2116) //  a
     cd_battlecry2         = RESOLVE_STR_REF(@2117) //  8
     cd_battlecry3         = RESOLVE_STR_REF(@2118) //  9
@@ -263,6 +268,7 @@ LAF cd_add_soundset
     cd_action6            = RESOLVE_STR_REF(@2206) //  u
     cd_action7            = RESOLVE_STR_REF(@2207) //  v
     cd_action_rare1       = RESOLVE_STR_REF(@2208) //  x
+    cd_action_rare2       = RESOLVE_STR_REF(@2208) //  x
     cd_battlecry1         = RESOLVE_STR_REF(@2216) //  a
     cd_battlecry2         = RESOLVE_STR_REF(@2217) //  8
     cd_battlecry3         = RESOLVE_STR_REF(@2218) //  9
@@ -306,6 +312,7 @@ LAF cd_add_soundset
     cd_action6            = RESOLVE_STR_REF(@2306) //  u
     cd_action7            = RESOLVE_STR_REF(@2307) //  v
     cd_action_rare1       = RESOLVE_STR_REF(@2308) //  x
+    cd_action_rare2       = RESOLVE_STR_REF(@2308) //  x
     cd_battlecry1         = RESOLVE_STR_REF(@2316) //  a
     cd_battlecry2         = RESOLVE_STR_REF(@2317) //  8
     cd_battlecry3         = RESOLVE_STR_REF(@2318) //  9
@@ -349,6 +356,7 @@ LAF cd_add_soundset
     cd_action6            = RESOLVE_STR_REF(@2406) //  u
     cd_action7            = RESOLVE_STR_REF(@2407) //  v
     cd_action_rare1       = RESOLVE_STR_REF(@2408) //  x
+    cd_action_rare2       = RESOLVE_STR_REF(@2408) //  x
     cd_battlecry1         = RESOLVE_STR_REF(@2416) //  a
     cd_battlecry2         = RESOLVE_STR_REF(@2417) //  8
     cd_battlecry3         = RESOLVE_STR_REF(@2418) //  9
@@ -392,6 +400,7 @@ LAF cd_add_soundset
     cd_action6            = RESOLVE_STR_REF(@2506) //  u
     cd_action7            = RESOLVE_STR_REF(@2507) //  v
     cd_action_rare1       = RESOLVE_STR_REF(@2508) //  x
+    cd_action_rare2       = RESOLVE_STR_REF(@2508) //  x
     cd_battlecry1         = RESOLVE_STR_REF(@2516) //  a
     cd_battlecry2         = RESOLVE_STR_REF(@2517) //  8
     cd_battlecry3         = RESOLVE_STR_REF(@2518) //  9
