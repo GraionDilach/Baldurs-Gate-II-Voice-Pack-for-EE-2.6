@@ -16,6 +16,13 @@ Baldur's Gate II has a lot of voiceset inconsistencies.
 Initial release.
 Adds the 9 sets from BG2.
 
+### 1.1.0
+Increase the chances of the 8th action response triggering.
+
+### 1.2.0
+Prevent installing on unmerged SoD.
+Move backup and inlined folder to weidu_external.
+
 ## Acknowledgments
 Thanks for CamDawg for [his documentation on EE 2.6+ voicesets](https://github.com/Gibberlings3/EE_soundset_tool).
 
